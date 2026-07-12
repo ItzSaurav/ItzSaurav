@@ -15,10 +15,9 @@ I like writing Python and JavaScript, automating the boring parts of life, and o
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**StudyForge**](https://github.com/ItzSaurav/studyforge) | Gamified study tracker with XP, levels, and streaks | Python, Flask, Firebase |
-| [**Agriroute AI**](https://github.com/ItzSaurav/agriroute-ai) | AI-powered agricultural supply chain routing | Next.js, TypeScript |
+| [**StudyForge**](https://github.com/ItzSaurav/studyforge) | Gamified study tracker with XP, levels, and streaks | Firebase-backed SPA |
 | [**Rainvision**](https://github.com/ItzSaurav/rainvision) | Modern web app with responsive component architecture | Next.js, TypeScript |
-| [**FoodShare**](https://github.com/ItzSaurav/FoodShare) | Community food-sharing platform with PWA support | Node.js, Express 5 |
+| [**FoodShare**](https://github.com/ItzSaurav/FoodShare) | Community food-sharing platform with PWA support | Client-side PWA with Firebase |
 | [**Assignmate**](https://github.com/ItzSaurav/Assignmate-) | Peer-to-peer student tutoring marketplace | Python, Flask, SQLite |
 | [**Neon Nexus**](https://github.com/ItzSaurav/pygame-rpg-engine) | 2D action RPG with procedural world generation | Python, Pygame |
 
