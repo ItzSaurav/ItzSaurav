@@ -30,6 +30,7 @@ Built AI tool directories, prototyped Zapier automation workflows, and explored 
 ## 📫 Let's Connect
 
 - **Portfolio:** [itzsaurav.github.io](https://itzsaurav.github.io)
+- **Resume:** [View my Resume](https://itzsaurav.github.io/Saurav_Mishra_Resume.pdf)
 - **LinkedIn:** [saurav-mishra-812259364](https://linkedin.com/in/saurav-mishra-812259364)
 - **Email:** sauravmishra9045@gmail.com
 
