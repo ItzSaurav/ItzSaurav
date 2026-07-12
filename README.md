@@ -1,21 +1,38 @@
-# Saurav
+# Hey, I'm Saurav 👋
 
-I am a software developer focused on building functional, reliable applications. My work spans from creating comprehensive Python applications to developing full-stack web applications and automation tools.
+Backend developer and automation nerd based in Bangalore. Currently studying Information Science & Engineering at GCEM (VTU) and building things that actually do stuff — not just look pretty on paper.
 
-### About Me
-I enjoy solving complex problems and taking projects from concept to deployment. I primarily write code in Python and JavaScript (Node.js), but I am always exploring new tools and frameworks that help build better software. I appreciate clean architecture, well-documented codebases, and building things that scale efficiently.
+I like writing Python and JavaScript, automating the boring parts of life, and occasionally over-engineering side projects at 2am.
 
-### Technical Focus
-* **Languages:** Python, JavaScript, HTML, CSS
-* **Backend:** Node.js, Express
-* **Other:** Discord API integration, game development logic
+## 🔧 What I Work With
 
-### Featured Work
-* **FoodShare**: A backend API application built with Node.js and Express to facilitate food sharing.
-* **PORT**: Also known as Neon Nexus, a custom interactive game developed in Python.
-* **Enhancedfish**: A scalable Discord bot utilizing Discord.js.
-* **Assignmate-**: A monolithic Python application designed for complex automation tasks.
+**Languages:** Python, JavaScript, TypeScript, C/C++, SQL  
+**Backend:** Node.js, Express, Flask, Firebase  
+**Frontend:** Next.js, HTML/CSS, vanilla JS  
+**Tools & Infra:** Docker, Linux, n8n, Zapier, Vercel, Git  
+
+## 🚀 Featured Projects
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [**StudyForge**](https://github.com/ItzSaurav/studyforge) | Gamified study tracker with XP, levels, and streaks | Python, Flask, Firebase |
+| [**Agriroute AI**](https://github.com/ItzSaurav/agriroute-ai) | AI-powered agricultural supply chain routing | Next.js, TypeScript |
+| [**Rainvision**](https://github.com/ItzSaurav/rainvision) | Modern web app with responsive component architecture | Next.js, TypeScript |
+| [**FoodShare**](https://github.com/ItzSaurav/FoodShare) | Community food-sharing platform with PWA support | Node.js, Express 5 |
+| [**Assignmate**](https://github.com/ItzSaurav/Assignmate-) | Peer-to-peer student tutoring marketplace | Python, Flask, SQLite |
+| [**Neon Nexus**](https://github.com/ItzSaurav/PORT) | 2D action RPG with procedural world generation | Python, Pygame |
+
+## 💼 Experience
+
+**AI Research Intern** @ Sunny Side Up *(May – Jun 2025)*  
+Built AI tool directories, prototyped Zapier automation workflows, and explored AI-assisted development with Cursor.
+
+## 📫 Let's Connect
+
+- **Portfolio:** [itzsaurav.github.io](https://itzsaurav.github.io)
+- **LinkedIn:** [saurav-mishra-812259364](https://linkedin.com/in/saurav-mishra-812259364)
+- **Email:** sauravmishra9045@gmail.com
 
 ---
 
-If you'd like to see more of my work, feel free to explore the pinned repositories below.
+*Currently vibing with backend development and automation. Always building something.*
