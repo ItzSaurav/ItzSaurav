@@ -4,14 +4,14 @@ Backend developer and automation nerd based in Bangalore. Currently studying Inf
 
 I like writing Python and JavaScript, automating the boring parts of life, and occasionally over-engineering side projects at 2am.
 
-## 🔧 What I Work With
+##  What I Work With
 
 **Languages:** Python, JavaScript, TypeScript, C/C++, SQL  
 **Backend:** Node.js, Express, Flask, Firebase  
 **Frontend:** Next.js, HTML/CSS, vanilla JS  
 **Tools & Infra:** Docker, Linux, n8n, Zapier, Vercel, Git  
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
@@ -22,12 +22,12 @@ I like writing Python and JavaScript, automating the boring parts of life, and o
 | [**Assignmate**](https://github.com/ItzSaurav/Assignmate-) | Peer-to-peer student tutoring marketplace | Python, Flask, SQLite |
 | [**Neon Nexus**](https://github.com/ItzSaurav/PORT) | 2D action RPG with procedural world generation | Python, Pygame |
 
-## 💼 Experience
+##  Experience
 
 **AI Research Intern** @ Sunny Side Up *(May – Jun 2025)*  
 Built AI tool directories, prototyped Zapier automation workflows, and explored AI-assisted development with Cursor.
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **Portfolio:** [itzsaurav.github.io](https://itzsaurav.github.io)
 - **LinkedIn:** [saurav-mishra-812259364](https://linkedin.com/in/saurav-mishra-812259364)
