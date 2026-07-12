@@ -20,7 +20,7 @@ I like writing Python and JavaScript, automating the boring parts of life, and o
 | [**Rainvision**](https://github.com/ItzSaurav/rainvision) | Modern web app with responsive component architecture | Next.js, TypeScript |
 | [**FoodShare**](https://github.com/ItzSaurav/FoodShare) | Community food-sharing platform with PWA support | Node.js, Express 5 |
 | [**Assignmate**](https://github.com/ItzSaurav/Assignmate-) | Peer-to-peer student tutoring marketplace | Python, Flask, SQLite |
-| [**Neon Nexus**](https://github.com/ItzSaurav/PORT) | 2D action RPG with procedural world generation | Python, Pygame |
+| [**Neon Nexus**](https://github.com/ItzSaurav/pygame-rpg-engine) | 2D action RPG with procedural world generation | Python, Pygame |
 
 ##  Experience
 
@@ -30,7 +30,7 @@ Built AI tool directories, prototyped Zapier automation workflows, and explored 
 ## Let's Connect
 
 - **Portfolio:** [itzsaurav.github.io](https://itzsaurav.github.io)
-- **Resume:** [View my Resume](https://itzsaurav.github.io/Saurav_Mishra_Resume.pdf)
+- **Resume:** [Download PDF](https://itzsaurav.github.io/Saurav_Mishra_Resume.pdf)
 - **LinkedIn:** [saurav-mishra-812259364](https://linkedin.com/in/saurav-mishra-812259364)
 - **Email:** sauravmishra9045@gmail.com
 
