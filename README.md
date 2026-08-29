@@ -1,13 +1,13 @@
 # Saurav Mishra
 
-Information Science undergraduate based in Bangalore, India. Focused on Python, backend systems, automated media and data pipelines, and core computer science fundamentals.
+Information Science undergraduate based in Bangalore, India. Focused on Python, backend scripting, workflow automation pipelines, and foundational computer systems.
 
-## Technical Focus
+## Technical Skills
 
-- **Languages**: Python, JavaScript, TypeScript, C/C++, SQL
-- **Backend & Web**: Flask, Node.js, Express, REST APIs, Firebase, HTML5/CSS3
-- **Automation & Tools**: Git, GitHub Actions, FFmpeg, Bash, Zapier, n8n
-- **Active Areas of Study**: Linux Systems & Internals, Operating Systems, Docker
+- **Languages**: Python, JavaScript, C/C++, SQL
+- **Backend & Web**: Node.js, Firebase, HTML5/CSS3, REST APIs, Flask
+- **Automation & Tooling**: Zapier, n8n, Activepieces, Git, GitHub, Bash, FFmpeg
+- **Systems & Containers**: Linux (CLI & basic commands), Docker (basic container commands)
 
 ## Featured Projects
 
