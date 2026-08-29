@@ -1,35 +1,35 @@
 # Saurav Mishra
 
-Information Science undergraduate based in Bangalore, India. Focused on Python, JavaScript, workflow automation pipelines, and core computer science fundamentals.
+Information Science undergraduate based in Bangalore, India. Focused on Python, JavaScript, workflow automation, and core computer science fundamentals.
 
 ## Technical Skills
 
 - **Languages**: Python, JavaScript, C/C++, SQL
-- **Web & Backend**: Node.js, Firebase, HTML5 / CSS3
+- **Web Development & Backend**: Node.js, Firebase, HTML5 / CSS3
 - **Automation & Tooling**: Zapier, n8n, Activepieces, Git, GitHub, Bash
-- **Systems & Containers (Working Knowledge)**: Linux (CLI & basic commands), Docker (basic commands)
+- **Systems & Containers (Working Knowledge)**: Linux (CLI & core commands), Docker (basic CLI commands)
 
-## Featured Projects
-
-### [Free Remotion Pipeline](https://github.com/ItzSaurav/free-remotion-pipeline)
-Automated video compositing pipeline built with Remotion. Integrates Microsoft Edge neural TTS, local ONNX background removal, and automated rendering via GitHub Actions.  
-`Remotion` `Node.js` `ONNX` `CI/CD`
-
-### [AI Tools Newsletter Pipeline](https://github.com/ItzSaurav/ai-tools-newsletter)
-Scheduled Python pipeline that ingests developer tool feeds, scores items using ranking heuristics, runs LLM-assisted curation, and drafts publication-ready HTML newsletters via GitHub Actions.  
-`Python` `GitHub Actions` `Data Ingestion` `Testing`
-
-### [YouTube Shorts Automation Engine](https://github.com/ItzSaurav/youtube-shorts-automation)
-Modular content automation workflow coordinating topic ingestion, script generation, text-to-speech audio synthesis, and automated video assembly with YouTube publishing.  
-`Python` `LangGraph` `Video Pipeline` `YouTube API`
+## Projects
 
 ### [StudyForge](https://github.com/ItzSaurav/studyforge)
 Gamified task and study management web application with XP progression, leveling mechanics, and streak tracking on a client-side Firebase architecture.  
 `JavaScript` `Firebase` `PWA` `Vercel`
 
+### [FoodShare](https://github.com/ItzSaurav/FoodShare)
+Progressive Web App for community surplus food sharing, built with vanilla JavaScript, Node.js, and Firebase Firestore real-time sync.  
+`JavaScript` `Node.js` `Firebase` `PWA`
+
+### [CB-watch (Gesture Cube Timer)](https://github.com/ItzSaurav/CB-watch)
+Touchless Rubik's Cube timer utility built with Python, OpenCV, and Google MediaPipe hand landmark detection.  
+`Python` `OpenCV` `MediaPipe`
+
 ### [VI Voice Assistant](https://github.com/ItzSaurav/VI)
-Lightweight Python voice assistant prototype integrating speech recognition, Groq LLM API inference, basic system automation tools, and local flat-file memory.  
+Lightweight desktop voice assistant prototype integrating speech recognition, Groq LLM API inference, and local flat-file memory.  
 `Python` `SpeechRecognition` `Groq API`
+
+### [Pygame 2D Engine](https://github.com/ItzSaurav/pygame-rpg-engine)
+2D top-down action game engine prototype in Python with Pygame, exploring game loops, camera tracking, and procedural terrain generation.  
+`Python` `Pygame` `Game Dev`
 
 ## Contact & Links
 
