@@ -1,15 +1,15 @@
 # Saurav Mishra
 
-I am a 2nd-year Information Science and Engineering student at GCEM (VTU) in Bangalore, India. I focus on backend development, systems programming, and building practical tools to automate everyday workflows.
+I am a 2nd-year Information Science and Engineering student at GCEM (VTU) in Bangalore, India. I am currently learning Python fundamentals, basic web development, and exploring Linux systems through the FreeDot Linux project.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python, JavaScript, TypeScript, C, C++, SQL, HTML, CSS
-- **Systems & Low-Level:** Linux Syscalls, POSIX, C++20, QEMU, Process Management, Sockets
-- **Backend & Cloud:** Node.js, Express, Flask, Firebase (Auth, Cloud Firestore), SQLite
-- **Automation & Tools:** Git, GitHub, Bash, n8n, Zapier, Docker
+- **Languages:** Python (Learning fundamentals), JavaScript (Basics), C, C++, SQL, HTML, CSS
+- **Currently Learning:** Linux systems & kernel booting (learning via FreeDot Linux), Docker basics
+- **Web & Backend:** Node.js, Express, Flask basics, Firebase (Auth, Cloud Firestore), SQLite
+- **Automation & Tools:** Git, GitHub, Bash, n8n, Zapier
 
 ---
 
@@ -17,7 +17,7 @@ I am a 2nd-year Information Science and Engineering student at GCEM (VTU) in Ban
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| [**FreeDot Linux**](https://github.com/ItzSaurav/freedot-linux) | Minimal Linux distribution with custom C++20 PID 1 init system, process supervisor, and userspace | C++20, Linux Syscalls, QEMU, Bash | [GitHub](https://github.com/ItzSaurav/freedot-linux) |
+| [**FreeDot Linux**](https://github.com/ItzSaurav/freedot-linux) | Hands-on learning project to understand Linux kernel booting, custom C++20 PID 1 init system, and userspace bring-up | C++20, Linux Syscalls, QEMU, Bash | [GitHub](https://github.com/ItzSaurav/freedot-linux) |
 | [**StudyForge**](https://github.com/ItzSaurav/studyforge) | Gamified productivity web app with XP progression, levels, and streak tracking | JavaScript, HTML5, CSS3, Firebase | [Live Demo](https://studyforge-pearl.vercel.app/) \| [GitHub](https://github.com/ItzSaurav/studyforge) |
 | [**FoodShare**](https://github.com/ItzSaurav/FoodShare) | Community food-sharing progressive web app to help redistribute surplus food | JavaScript, Node.js, Firebase PWA | [Live Demo](https://idp-blush.vercel.app/) \| [GitHub](https://github.com/ItzSaurav/FoodShare) |
 | [**Assignmate**](https://github.com/ItzSaurav/Assignmate-) | Peer-to-peer student tutoring platform with course tasks and user roles | Python, Flask, SQLite | [GitHub](https://github.com/ItzSaurav/Assignmate-) |
