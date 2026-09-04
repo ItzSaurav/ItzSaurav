@@ -7,7 +7,7 @@ I am a 2nd-year Information Science and Engineering student at GCEM (VTU) in Ban
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, TypeScript, C, C++, SQL, HTML, CSS
-- **Currently Learning:** Linux (learning via FreeDot Linux), Docker basics
+- **Currently Learning:** Linux (learning via FreeDot Linux), Docker
 - **Web & Backend:** Node.js, Express, Flask, Firebase (Auth, Cloud Firestore), SQLite
 - **Automation & Tools:** Git, GitHub, Bash, n8n, Zapier
 
