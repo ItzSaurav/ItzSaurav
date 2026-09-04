@@ -1,14 +1,14 @@
 # Saurav Mishra
 
-I am a 2nd-year Information Science and Engineering student at GCEM (VTU) in Bangalore, India. I am currently learning Python fundamentals, basic web development, and exploring Linux systems through the FreeDot Linux project.
+I am a 2nd-year Information Science and Engineering student at GCEM (VTU) in Bangalore, India. I build practical software tools, backend scripts, and web applications, and I am currently learning Linux through the FreeDot Linux project.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python (Learning fundamentals), JavaScript (Basics), C, C++, SQL, HTML, CSS
-- **Currently Learning:** Linux systems & kernel booting (learning via FreeDot Linux), Docker basics
-- **Web & Backend:** Node.js, Express, Flask basics, Firebase (Auth, Cloud Firestore), SQLite
+- **Languages:** Python, JavaScript, TypeScript, C, C++, SQL, HTML, CSS
+- **Currently Learning:** Linux (learning via FreeDot Linux), Docker basics
+- **Web & Backend:** Node.js, Express, Flask, Firebase (Auth, Cloud Firestore), SQLite
 - **Automation & Tools:** Git, GitHub, Bash, n8n, Zapier
 
 ---
