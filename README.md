@@ -29,19 +29,18 @@ I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, 
 
 ## Open Source Contributions
 
-### Merged Pull Requests
-- **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions/pull/124462)**: Added contributor profile to community roster following standard workflow.
-- **[lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo/pull/29819)**: Contributed Japanese video game quote dataset entry (Yakuza: Like a Dragon) for language learners.
-- **[YauhenBichel/python-vibe](https://github.com/YauhenBichel/python-vibe/pull/76)**: Documented GitHub Pages deployment and live site workflow in contributor guides.
-- **[RonaldHensbergen/composable-data-stack](https://github.com/RonaldHensbergen/composable-data-stack/pull/560)**: Documented ifNonempty conditional interpolation syntax and semantics.
-- **[chahe-dridi/vscode-agent-bell](https://github.com/chahe-dridi/vscode-agent-bell/pull/4)**: Updated volume description configuration for Windows WAV audio scaling.
-- **[Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM/pull/634)**: Removed unreferenced duplicate documentation file to eliminate documentation drift risk.
-- **[mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust/pull/10075)**: Added Apache 2.0 license compliance headers across RPC transport modules.
-
-### Active Pull Requests
-- **[lark-parser/lark](https://github.com/lark-parser/lark/pull/1638)**: Upgraded SPPF parse tree visualization docs to modern Bootstrap 5 components.
-- **[Coding-Moves/30-Days-30-Python-Projects](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only/pull/3)**: Contributed Day 05 project (secure CLI password generator with custom character set rules).
-- **[Abdellox/AAA](https://github.com/Abdellox/AAA/pull/2)**: Expanded curated AI Coding Agents catalog with active open-source projects.
+| Repository | Contribution / Scope | Status | Pull Request |
+|------------|----------------------|--------|--------------|
+| [**first-contributions**](https://github.com/firstcontributions/first-contributions) | Profile onboarding & contributor roster registration | Merged | [PR #124462](https://github.com/firstcontributions/first-contributions/pull/124462) |
+| [**kana-dojo**](https://github.com/lingdojo/kana-dojo) | Japanese video game dialogue dataset (Yakuza: Like a Dragon) | Merged | [PR #29819](https://github.com/lingdojo/kana-dojo/pull/29819) |
+| [**python-vibe**](https://github.com/YauhenBichel/python-vibe) | Project site documentation & GitHub Pages deployment guide | Merged | [PR #76](https://github.com/YauhenBichel/python-vibe/pull/76) |
+| [**composable-data-stack**](https://github.com/RonaldHensbergen/composable-data-stack) | Documented ifNonempty conditional interpolation semantics | Merged | [PR #560](https://github.com/RonaldHensbergen/composable-data-stack/pull/560) |
+| [**vscode-agent-bell**](https://github.com/chahe-dridi/vscode-agent-bell) | Extension volume settings & Windows WAV audio scaling behavior | Merged | [PR #4](https://github.com/chahe-dridi/vscode-agent-bell/pull/4) |
+| [**CONTINUUM**](https://github.com/Cyrax321/CONTINUUM) | Removed unreferenced duplicate memory governance guide | Merged | [PR #634](https://github.com/Cyrax321/CONTINUUM/pull/634) |
+| [**rocketmq-rust**](https://github.com/mxsm/rocketmq-rust) | Added Apache 2.0 license compliance headers to transport modules | Merged | [PR #10075](https://github.com/mxsm/rocketmq-rust/pull/10075) |
+| [**lark**](https://github.com/lark-parser/lark) | Modernized SPPF parse tree documentation to Bootstrap 5 components | In Review | [PR #1638](https://github.com/lark-parser/lark/pull/1638) |
+| [**30-Days-30-Python-Projects**](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only) | Day-05 secure CLI password generator in Python | In Review | [PR #3](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only/pull/3) |
+| [**AAA (AI Coding Agents)**](https://github.com/Abdellox/AAA) | AI Coding Agents directory expansion with structured metadata | In Review | [PR #2](https://github.com/Abdellox/AAA/pull/2) |
 
 ---
 
