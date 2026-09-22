@@ -1,6 +1,6 @@
 # Saurav Mishra
 
-I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, India (2025 – 2029). I build practical software tools, backend scripts, and web applications, and I actively explore systems programming through the FreeDot Linux project.
+I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, India (2025 - 2029). I build practical software tools, backend scripts, and web applications, and I actively explore systems programming through the FreeDot Linux project.
 
 ---
 
@@ -46,7 +46,7 @@ I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, 
 
 ## Experience
 
-**AI Research Intern** — Sunny Side Up *(May 2025 – Jun 2025)*  
+**AI Research Intern** - Sunny Side Up *(May 2025 - Jun 2025)*  
 Researched and evaluated 50+ AI tools and APIs across media creation and productivity. Prototyped Zapier automation workflows and evaluated layout automation scripts.
 
 ---
