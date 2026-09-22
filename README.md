@@ -1,6 +1,6 @@
 # Saurav Mishra
 
-I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, India (2025 – 2029). I build practical software tools, backend scripts, and web applications, and I actively explore systems programming through the FreeDot Linux project.
+I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, India (2025 - 2029). I build practical software tools, backend scripts, and web applications, and I actively explore systems programming through the FreeDot Linux project.
 
 ---
 
@@ -39,14 +39,14 @@ I am an Information Science and Engineering student at GCEM (VTU) in Bangalore, 
 | [**CONTINUUM**](https://github.com/Cyrax321/CONTINUUM) | Removed unreferenced duplicate memory governance guide | Merged | [PR #634](https://github.com/Cyrax321/CONTINUUM/pull/634) |
 | [**rocketmq-rust**](https://github.com/mxsm/rocketmq-rust) | Added Apache 2.0 license compliance headers to transport modules | Merged | [PR #10075](https://github.com/mxsm/rocketmq-rust/pull/10075) |
 | [**lark**](https://github.com/lark-parser/lark) | Modernized SPPF parse tree documentation to Bootstrap 5 components | In Review | [PR #1638](https://github.com/lark-parser/lark/pull/1638) |
-| [**30-Days-30-Python-Projects**](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only) | Day-05 secure CLI password generator in Python | In Review | [PR #3](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only/pull/3) |
+| [**30-Days-30-Python-Projects**](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only) | Day-05 secure CLI password generator in Python | Merged | [PR #3](https://github.com/Coding-Moves/30-Days-30-Python-Projects-Beginner-Contributions-Only/pull/3) |
 | [**AAA (AI Coding Agents)**](https://github.com/Abdellox/AAA) | AI Coding Agents directory expansion with structured metadata | In Review | [PR #2](https://github.com/Abdellox/AAA/pull/2) |
 
 ---
 
 ## Experience
 
-**AI Research Intern** — Sunny Side Up *(May 2025 – Jun 2025)*  
+**AI Research Intern** - Sunny Side Up *(May 2025 - Jun 2025)*  
 Researched and evaluated 50+ AI tools and APIs across media creation and productivity. Prototyped Zapier automation workflows and evaluated layout automation scripts.
 
 ---
