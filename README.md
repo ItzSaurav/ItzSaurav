@@ -2,7 +2,7 @@
 
 Systems and software engineer based in Bangalore, India. Operating across the software stack—from low-latency C++20 Linux kernel initialization and PID 1 supervisors to real-time computer vision state engines and distributed web platforms.
 
-[Portfolio](https://itzsaurav.github.io/) | [Resume (PDF)](https://itzsaurav.github.io/Saurav_Mishra_Resume.pdf) | [LinkedIn](https://linkedin.com/in/saurav-mishra-812259364) | [Email](mailto:saurav.mishra.dev@gmail.com)
+[Portfolio](https://itzsaurav.github.io/) | [Resume (PDF)](https://itzsaurav.github.io/Saurav_Mishra_Resume.pdf) | [LinkedIn](https://linkedin.com/in/saurav-mishra-812259364) | [Email](mailto:sauravmishra9045@gmail.com)
 
 ---
 
@@ -94,6 +94,6 @@ Systems and software engineer based in Bangalore, India. Operating across the so
 
 - **Location:** Bangalore, India (`Asia/Kolkata` / IST)
 - **Portfolio:** [itzsaurav.github.io](https://itzsaurav.github.io/)
-- **Email:** [saurav.mishra.dev@gmail.com](mailto:saurav.mishra.dev@gmail.com)
+- **Email:** [sauravmishra9045@gmail.com](mailto:sauravmishra9045@gmail.com)
 - **LinkedIn:** [linkedin.com/in/saurav-mishra-812259364](https://linkedin.com/in/saurav-mishra-812259364)
 - **Resume:** [Saurav_Mishra_Resume.pdf](https://itzsaurav.github.io/Saurav_Mishra_Resume.pdf)
